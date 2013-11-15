@@ -1,6 +1,9 @@
 Annotate
 ========
 
+[![Build
+Status](https://travis-ci.org/msabramo/annotate.png)](https://travis-ci.org/msabramo/annotate)
+
 Executes a program annotating the output linewise with time and stream
 
 Version 1.2
